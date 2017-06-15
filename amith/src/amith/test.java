@@ -10,7 +10,10 @@ public class test {
 		 int y = 10;
 		 int result = x + y ;
 		 System.out.println("result =" + result);
-		 
+		 int f = 45;
+		 int g = 62;
+		 int result1 = f*g;
+		 System.out.println("result =" + result1);
 		
          
 	}
